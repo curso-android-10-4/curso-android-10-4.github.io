@@ -1,24 +1,38 @@
 ## Welcome to GitHub Pages
-Curso de desarrollo de aplicaciones moviles impartido por sicte y relatado por el indefenso informatico.
+Curso de desarrollo de aplicaciones móviles impartido por SICTE y relatado por el indefenso informático.
 
 ### Markdown
+Links de Interés:
+- Información del desarrollador :  Curso de Android y Kotlin
+- Enlace a los repositorios : 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- lenguajes que maneja : Android,Kotlin, Java, GitHub
+- contacto :  cursomovil104@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+Proyectos  Desarrollados durante Enero y Febrero del 2021:
+  - Git Hub Page en  Alemán e Inglés.
+  -  Solucionar problemas de Congestión Vial en Santiago mediante Android, Kotlin.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Nuestro  Intereses
+- redes sociales:
+     *Telegram
+     * WhatsApp
+     *TikTok
+     * Tinder
+     
+- Hobbies: 
+     * Matemáticas,
+     * Hockey,
+     * Play station 5.0,
+     * Liderazgo personal
+     * Personal coatching
+     * Cocina Internacional
+
+
+
 
 [Link](url) and ![Image](src)
 ```
