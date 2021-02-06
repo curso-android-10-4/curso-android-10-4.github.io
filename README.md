@@ -1,13 +1,7 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Bienvenido a mi portafolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+En este repositorio encontrarás todo el código fuente. Eres libre para revisarlo, mejorarlo o contribuir en caso de que lo consideres necesario, para mi sería un gusto.
 
-Oh! I haven't introduced myself...
+Si tienes algún comentario con respecto a mi portafolio, por favor házmelo saber [aquí](https://github.com/jfbaquerocelis/Portafolio/issues).
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+> Versión 1.0.62
